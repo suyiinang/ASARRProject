@@ -33,10 +33,11 @@ ui <- dashboardPage(
                     dashboardHeader(title = strong('The Math of Happiness'), titleWidth = 400),
                     dashboardSidebar(width = 400,
                                      sidebarMenu(id = 'sbm',
-                                                 menuItem('Distribution', tabName = 'Distribution', icon = NULL),
-                                                 menuItem('Evolution', tabName = 'Evolution', icon = NULL),
-                                                 menuItem('Factors', tabName = 'Factors', icon = NULL),
-                                                 menuItem('Prediction', tabName = 'Prediction', icon = NULL)
+                                                 menuItem('Distribution', tabName = 'Distribution', icon = icon('globe')),
+                                                 menuItem('Evolution', tabName = 'Evolution', icon = icon('chart-line')),
+                                                 menuItem('Factors', tabName = 'Factors', icon = icon('project-diagram')),
+                                                 menuItem('Prediction', tabName = 'Prediction', icon = icon('laptop-code')),
+                                                 menuItem('About', tabName = 'About', icon = icon('address-card'))
                                      )
                     ),
                     dashboardBody(
@@ -135,6 +136,13 @@ ui <- dashboardPage(
                                           )
                                           )
                                         )
+                                    ),
+                            
+                            tabItem(tabName = 'About',
+                                    fluidPage(
+                                      titlePanel(strong("About")),
+                                      h4("This app was created as part of the requirements for the Applied Statistical Analysis with R module for Master of IT in Business program at Singapore Management University (SMU)."),
+                                      )
                                     )
                         )
                     )
