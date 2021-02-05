@@ -1,0 +1,936 @@
+,Country,HappinessScore,Year,Region,Code
+1,Switzerland,7.587,2015,Western Europe,CHE
+2,Iceland,7.561,2015,Western Europe,ISL
+3,Denmark,7.527,2015,Western Europe,DNK
+4,Norway,7.522,2015,Western Europe,NOR
+5,Canada,7.427,2015,North America,CAN
+6,Finland,7.406,2015,Western Europe,FIN
+7,Netherlands,7.378,2015,Western Europe,NLD
+8,Sweden,7.364,2015,Western Europe,SWE
+9,New Zealand,7.286,2015,Australia and New Zealand,NZL
+10,Australia,7.284,2015,Australia and New Zealand,AUS
+11,Israel,7.278,2015,Middle East and Northern Africa,ISR
+12,Costa Rica,7.226,2015,Latin America and Caribbean,CRI
+13,Austria,7.2,2015,Western Europe,AUT
+14,Mexico,7.187,2015,Latin America and Caribbean,MEX
+15,United States,7.119,2015,North America,USA
+16,Brazil,6.983,2015,Latin America and Caribbean,BRA
+17,Luxembourg,6.946,2015,Western Europe,LUX
+18,Ireland,6.94,2015,Western Europe,IRL
+19,Belgium,6.937,2015,Western Europe,BEL
+20,United Arab Emirates,6.901,2015,Middle East and Northern Africa,ARE
+21,United Kingdom,6.867,2015,Western Europe,GBR
+22,Oman,6.853,2015,Middle East and Northern Africa,OMN
+23,Venezuela,6.81,2015,Latin America and Caribbean,VEN
+24,Singapore,6.798,2015,Southeastern Asia,SGP
+25,Panama,6.786,2015,Latin America and Caribbean,PAN
+26,Germany,6.75,2015,Western Europe,DEU
+27,Chile,6.67,2015,Latin America and Caribbean,CHL
+28,Qatar,6.611,2015,Middle East and Northern Africa,QAT
+29,France,6.575,2015,Western Europe,FRA
+30,Argentina,6.574,2015,Latin America and Caribbean,ARG
+31,Czech Republic,6.505,2015,Central and Eastern Europe,CZE
+32,Uruguay,6.485,2015,Latin America and Caribbean,URY
+33,Colombia,6.477,2015,Latin America and Caribbean,COL
+34,Thailand,6.455,2015,Southeastern Asia,THA
+35,Saudi Arabia,6.411,2015,Middle East and Northern Africa,SAU
+36,Spain,6.329,2015,Western Europe,ESP
+37,Malta,6.302,2015,Western Europe,MLT
+38,Taiwan,6.298,2015,Eastern Asia,TWN
+39,Kuwait,6.295,2015,Middle East and Northern Africa,KWT
+40,Suriname,6.269,2015,Latin America and Caribbean,SUR
+41,Trinidad and Tobago,6.168,2015,Latin America and Caribbean,TTO
+42,El Salvador,6.13,2015,Latin America and Caribbean,SLV
+43,Guatemala,6.123,2015,Latin America and Caribbean,GTM
+44,Uzbekistan,6.003,2015,Central and Eastern Europe,UZB
+45,Slovakia,5.995,2015,Central and Eastern Europe,SVK
+46,Japan,5.987,2015,Eastern Asia,JPN
+47,South Korea,5.984,2015,Eastern Asia,KOR
+48,Ecuador,5.975,2015,Latin America and Caribbean,ECU
+49,Bahrain,5.96,2015,Middle East and Northern Africa,BHR
+50,Italy,5.948,2015,Western Europe,ITA
+51,Bolivia,5.89,2015,Latin America and Caribbean,BOL
+52,Moldova,5.889,2015,Central and Eastern Europe,MDA
+53,Paraguay,5.878,2015,Latin America and Caribbean,PRY
+54,Kazakhstan,5.855,2015,Central and Eastern Europe,KAZ
+55,Slovenia,5.848,2015,Central and Eastern Europe,SVN
+56,Lithuania,5.833,2015,Central and Eastern Europe,LTU
+57,Nicaragua,5.828,2015,Latin America and Caribbean,NIC
+58,Peru,5.824,2015,Latin America and Caribbean,PER
+59,Belarus,5.813,2015,Central and Eastern Europe,BLR
+60,Poland,5.791,2015,Central and Eastern Europe,POL
+61,Malaysia,5.77,2015,Southeastern Asia,MYS
+62,Croatia,5.759,2015,Central and Eastern Europe,HRV
+63,Libya,5.754,2015,Middle East and Northern Africa,LBY
+64,Russia,5.716,2015,Central and Eastern Europe,RUS
+65,Jamaica,5.709,2015,Latin America and Caribbean,JAM
+66,North Cyprus,5.695,2015,Western Europe,CYP
+67,Cyprus,5.689,2015,Western Europe,CYP
+68,Algeria,5.605,2015,Middle East and Northern Africa,DZA
+69,Kosovo,5.589,2015,Central and Eastern Europe,KSV
+70,Turkmenistan,5.548,2015,Central and Eastern Europe,TKM
+71,Mauritius,5.477,2015,Sub-Saharan Africa,MUS
+72,Hong Kong,5.474,2015,Eastern Asia,HKG
+73,Estonia,5.429,2015,Central and Eastern Europe,EST
+74,Indonesia,5.399,2015,Southeastern Asia,IDN
+75,Vietnam,5.36,2015,Southeastern Asia,VNM
+76,Turkey,5.332,2015,Middle East and Northern Africa,TUR
+77,Kyrgyzstan,5.286,2015,Central and Eastern Europe,KGZ
+78,Nigeria,5.268,2015,Sub-Saharan Africa,NGA
+79,Bhutan,5.253,2015,Southern Asia,BTN
+80,Azerbaijan,5.212,2015,Central and Eastern Europe,AZE
+81,Pakistan,5.194,2015,Southern Asia,PAK
+82,Jordan,5.192,2015,Middle East and Northern Africa,JOR
+83,Montenegro,5.192,2015,Central and Eastern Europe,MNE
+84,China,5.14,2015,Eastern Asia,CHN
+85,Zambia,5.129,2015,Sub-Saharan Africa,ZMB
+86,Romania,5.124,2015,Central and Eastern Europe,ROU
+87,Serbia,5.123,2015,Central and Eastern Europe,SRB
+88,Portugal,5.102,2015,Western Europe,PRT
+89,Latvia,5.098,2015,Central and Eastern Europe,LVA
+90,Philippines,5.073,2015,Southeastern Asia,PHL
+91,Somalia,5.057,2015,Middle East and Northern Africa,SOM
+92,Morocco,5.013,2015,Middle East and Northern Africa,MAR
+93,Macedonia,5.007,2015,Central and Eastern Europe,MKD
+94,Mozambique,4.971,2015,Sub-Saharan Africa,MOZ
+95,Albania,4.959,2015,Central and Eastern Europe,ALB
+96,Bosnia and Herzegovina,4.949,2015,Central and Eastern Europe,BIH
+97,Lesotho,4.898,2015,Sub-Saharan Africa,LSO
+98,Dominican Republic,4.885,2015,Latin America and Caribbean,DOM
+99,Laos,4.876,2015,Southeastern Asia,LAO
+100,Mongolia,4.874,2015,Eastern Asia,MNG
+101,Swaziland,4.867,2015,Sub-Saharan Africa,SWZ
+102,Greece,4.857,2015,Western Europe,GRC
+103,Lebanon,4.839,2015,Middle East and Northern Africa,LBN
+104,Hungary,4.8,2015,Central and Eastern Europe,HUN
+105,Honduras,4.788,2015,Latin America and Caribbean,HND
+106,Tajikistan,4.786,2015,Central and Eastern Europe,TJK
+107,Tunisia,4.739,2015,Middle East and Northern Africa,TUN
+108,Palestinian Territories,4.715,2015,Middle East and Northern Africa,PSE
+109,Bangladesh,4.694,2015,Southern Asia,BGD
+110,Iran,4.686,2015,Middle East and Northern Africa,IRN
+111,Ukraine,4.681,2015,Central and Eastern Europe,UKR
+112,Iraq,4.677,2015,Middle East and Northern Africa,IRQ
+113,South Africa,4.642,2015,Sub-Saharan Africa,ZAF
+114,Ghana,4.633,2015,Sub-Saharan Africa,GHA
+115,Zimbabwe,4.61,2015,Sub-Saharan Africa,ZWE
+116,Liberia,4.571,2015,Sub-Saharan Africa,LBR
+117,India,4.565,2015,Southern Asia,IND
+118,Sudan,4.55,2015,Sub-Saharan Africa,SDN
+119,Haiti,4.518,2015,Latin America and Caribbean,HTI
+120,Congo (Kinshasa),4.517,2015,Sub-Saharan Africa,COD
+121,Nepal,4.514,2015,Southern Asia,NPL
+122,Ethiopia,4.512,2015,Sub-Saharan Africa,ETH
+123,Sierra Leone,4.507,2015,Sub-Saharan Africa,SLE
+124,Mauritania,4.436,2015,Sub-Saharan Africa,MRT
+125,Kenya,4.419,2015,Sub-Saharan Africa,KEN
+126,Djibouti,4.369,2015,Sub-Saharan Africa,DJI
+127,Armenia,4.35,2015,Central and Eastern Europe,ARM
+128,Botswana,4.332,2015,Sub-Saharan Africa,BWA
+129,Myanmar,4.307,2015,Southeastern Asia,MMR
+130,Georgia,4.297,2015,Central and Eastern Europe,GEO
+131,Malawi,4.292,2015,Sub-Saharan Africa,MWI
+132,Sri Lanka,4.271,2015,Southern Asia,LKA
+133,Cameroon,4.252,2015,Sub-Saharan Africa,CMR
+134,Bulgaria,4.218,2015,Central and Eastern Europe,BGR
+135,Egypt,4.194,2015,Middle East and Northern Africa,EGY
+136,Yemen,4.077,2015,Middle East and Northern Africa,YEM
+137,Angola,4.033,2015,Sub-Saharan Africa,AGO
+138,Mali,3.995,2015,Sub-Saharan Africa,MLI
+139,Congo (Brazzaville),3.989,2015,Sub-Saharan Africa,COG
+140,Comoros,3.956,2015,Sub-Saharan Africa,COM
+141,Uganda,3.931,2015,Sub-Saharan Africa,UGA
+142,Senegal,3.904,2015,Sub-Saharan Africa,SEN
+143,Gabon,3.896,2015,Sub-Saharan Africa,GAB
+144,Niger,3.845,2015,Sub-Saharan Africa,NER
+145,Cambodia,3.819,2015,Southeastern Asia,KHM
+146,Tanzania,3.781,2015,Sub-Saharan Africa,TZA
+147,Madagascar,3.681,2015,Sub-Saharan Africa,MDG
+148,Central African Republic,3.678,2015,Sub-Saharan Africa,CAF
+149,Chad,3.667,2015,Sub-Saharan Africa,TCD
+150,Guinea,3.656,2015,Sub-Saharan Africa,GIN
+151,Ivory Coast,3.655,2015,Sub-Saharan Africa,CIV
+152,Burkina Faso,3.587,2015,Sub-Saharan Africa,BFA
+153,Afghanistan,3.575,2015,Southern Asia,AFG
+154,Rwanda,3.465,2015,Sub-Saharan Africa,RWA
+155,Benin,3.34,2015,Sub-Saharan Africa,BEN
+156,Syria,3.006,2015,Middle East and Northern Africa,SYR
+157,Burundi,2.905,2015,Sub-Saharan Africa,BDI
+158,Togo,2.839,2015,Sub-Saharan Africa,TGO
+159,Denmark,7.526,2016,Western Europe,DNK
+160,Switzerland,7.509,2016,Western Europe,CHE
+161,Iceland,7.501,2016,Western Europe,ISL
+162,Norway,7.498,2016,Western Europe,NOR
+163,Finland,7.413,2016,Western Europe,FIN
+164,Canada,7.404,2016,North America,CAN
+165,Netherlands,7.339,2016,Western Europe,NLD
+166,New Zealand,7.334,2016,Australia and New Zealand,NZL
+167,Australia,7.313,2016,Australia and New Zealand,AUS
+168,Sweden,7.291,2016,Western Europe,SWE
+169,Israel,7.267,2016,Middle East and Northern Africa,ISR
+170,Austria,7.119,2016,Western Europe,AUT
+171,United States,7.104,2016,North America,USA
+172,Costa Rica,7.087,2016,Latin America and Caribbean,CRI
+173,Puerto Rico,7.039,2016,North America,PRI
+174,Germany,6.994,2016,Western Europe,DEU
+175,Brazil,6.952,2016,Latin America and Caribbean,BRA
+176,Belgium,6.929,2016,Western Europe,BEL
+177,Ireland,6.907,2016,Western Europe,IRL
+178,Luxembourg,6.871,2016,Western Europe,LUX
+179,Mexico,6.778,2016,Latin America and Caribbean,MEX
+180,Singapore,6.739,2016,Southeastern Asia,SGP
+181,United Kingdom,6.725,2016,Western Europe,GBR
+182,Chile,6.705,2016,Latin America and Caribbean,CHL
+183,Panama,6.701,2016,Latin America and Caribbean,PAN
+184,Argentina,6.65,2016,Latin America and Caribbean,ARG
+185,Czech Republic,6.596,2016,Central and Eastern Europe,CZE
+186,United Arab Emirates,6.573,2016,Middle East and Northern Africa,ARE
+187,Uruguay,6.545,2016,Latin America and Caribbean,URY
+188,Malta,6.488,2016,Western Europe,MLT
+189,Colombia,6.481,2016,Latin America and Caribbean,COL
+190,France,6.478,2016,Western Europe,FRA
+191,Thailand,6.474,2016,Southeastern Asia,THA
+192,Saudi Arabia,6.379,2016,Middle East and Northern Africa,SAU
+193,Taiwan,6.379,2016,Eastern Asia,TWN
+194,Qatar,6.375,2016,Middle East and Northern Africa,QAT
+195,Spain,6.361,2016,Western Europe,ESP
+196,Algeria,6.355,2016,Middle East and Northern Africa,DZA
+197,Guatemala,6.324,2016,Latin America and Caribbean,GTM
+198,Suriname,6.269,2016,Latin America and Caribbean,SUR
+199,Kuwait,6.239,2016,Middle East and Northern Africa,KWT
+200,Bahrain,6.218,2016,Middle East and Northern Africa,BHR
+201,Trinidad and Tobago,6.168,2016,Latin America and Caribbean,TTO
+202,Venezuela,6.084,2016,Latin America and Caribbean,VEN
+203,Slovakia,6.078,2016,Central and Eastern Europe,SVK
+204,El Salvador,6.068,2016,Latin America and Caribbean,SLV
+205,Malaysia,6.005,2016,Southeastern Asia,MYS
+206,Nicaragua,5.992,2016,Latin America and Caribbean,NIC
+207,Uzbekistan,5.987,2016,Central and Eastern Europe,UZB
+208,Italy,5.977,2016,Western Europe,ITA
+209,Ecuador,5.976,2016,Latin America and Caribbean,ECU
+210,Belize,5.956,2016,North America,BLZ
+211,Japan,5.921,2016,Eastern Asia,JPN
+212,Kazakhstan,5.919,2016,Central and Eastern Europe,KAZ
+213,Moldova,5.897,2016,Central and Eastern Europe,MDA
+214,Russia,5.856,2016,Central and Eastern Europe,RUS
+215,Poland,5.835,2016,Central and Eastern Europe,POL
+216,South Korea,5.835,2016,Eastern Asia,KOR
+217,Bolivia,5.822,2016,Latin America and Caribbean,BOL
+218,Lithuania,5.813,2016,Central and Eastern Europe,LTU
+219,Belarus,5.802,2016,Central and Eastern Europe,BLR
+220,North Cyprus,5.771,2016,Western Europe,CYP
+221,Slovenia,5.768,2016,Central and Eastern Europe,SVN
+222,Peru,5.743,2016,Latin America and Caribbean,PER
+223,Turkmenistan,5.658,2016,Central and Eastern Europe,TKM
+224,Mauritius,5.648,2016,Sub-Saharan Africa,MUS
+225,Libya,5.615,2016,Middle East and Northern Africa,LBY
+226,Latvia,5.56,2016,Central and Eastern Europe,LVA
+227,Cyprus,5.546,2016,Western Europe,CYP
+228,Paraguay,5.538,2016,Latin America and Caribbean,PRY
+229,Romania,5.528,2016,Central and Eastern Europe,ROU
+230,Estonia,5.517,2016,Central and Eastern Europe,EST
+231,Jamaica,5.51,2016,Latin America and Caribbean,JAM
+232,Croatia,5.488,2016,Central and Eastern Europe,HRV
+233,Hong Kong,5.458,2016,Eastern Asia,HKG
+234,Somalia,5.44,2016,Middle East and Northern Africa,SOM
+235,Kosovo,5.401,2016,Central and Eastern Europe,KSV
+236,Turkey,5.389,2016,Middle East and Northern Africa,TUR
+237,Indonesia,5.314,2016,Southeastern Asia,IDN
+238,Jordan,5.303,2016,Middle East and Northern Africa,JOR
+239,Azerbaijan,5.291,2016,Central and Eastern Europe,AZE
+240,Philippines,5.279,2016,Southeastern Asia,PHL
+241,China,5.245,2016,Eastern Asia,CHN
+242,Bhutan,5.196,2016,Southern Asia,BTN
+243,Kyrgyzstan,5.185,2016,Central and Eastern Europe,KGZ
+244,Serbia,5.177,2016,Central and Eastern Europe,SRB
+245,Bosnia and Herzegovina,5.163,2016,Central and Eastern Europe,BIH
+246,Montenegro,5.161,2016,Central and Eastern Europe,MNE
+247,Dominican Republic,5.155,2016,Latin America and Caribbean,DOM
+248,Morocco,5.151,2016,Middle East and Northern Africa,MAR
+249,Hungary,5.145,2016,Central and Eastern Europe,HUN
+250,Pakistan,5.132,2016,Southern Asia,PAK
+251,Lebanon,5.129,2016,Middle East and Northern Africa,LBN
+252,Portugal,5.123,2016,Western Europe,PRT
+253,Macedonia,5.121,2016,Central and Eastern Europe,MKD
+254,Vietnam,5.061,2016,Southeastern Asia,VNM
+255,Somalia,5.057,2016,Middle East and Northern Africa,SOM
+256,Tunisia,5.045,2016,Middle East and Northern Africa,TUN
+257,Greece,5.033,2016,Western Europe,GRC
+258,Tajikistan,4.996,2016,Central and Eastern Europe,TJK
+259,Mongolia,4.907,2016,Eastern Asia,MNG
+260,Laos,4.876,2016,Southeastern Asia,LAO
+261,Nigeria,4.875,2016,Sub-Saharan Africa,NGA
+262,Honduras,4.871,2016,Latin America and Caribbean,HND
+263,Iran,4.813,2016,Middle East and Northern Africa,IRN
+264,Zambia,4.795,2016,Sub-Saharan Africa,ZMB
+265,Nepal,4.793,2016,Southern Asia,NPL
+266,Palestinian Territories,4.754,2016,Middle East and Northern Africa,PSE
+267,Albania,4.655,2016,Central and Eastern Europe,ALB
+268,Bangladesh,4.643,2016,Southern Asia,BGD
+269,Sierra Leone,4.635,2016,Sub-Saharan Africa,SLE
+270,Iraq,4.575,2016,Middle East and Northern Africa,IRQ
+271,Namibia,4.574,2016,Sub-Saharan Africa,NAM
+272,Cameroon,4.513,2016,Sub-Saharan Africa,CMR
+273,Ethiopia,4.508,2016,Sub-Saharan Africa,ETH
+274,South Africa,4.459,2016,Sub-Saharan Africa,ZAF
+275,Sri Lanka,4.415,2016,Southern Asia,LKA
+276,India,4.404,2016,Southern Asia,IND
+277,Myanmar,4.395,2016,Southeastern Asia,MMR
+278,Egypt,4.362,2016,Middle East and Northern Africa,EGY
+279,Armenia,4.36,2016,Central and Eastern Europe,ARM
+280,Kenya,4.356,2016,Sub-Saharan Africa,KEN
+281,Ukraine,4.324,2016,Central and Eastern Europe,UKR
+282,Ghana,4.276,2016,Sub-Saharan Africa,GHA
+283,Congo (Kinshasa),4.272,2016,Sub-Saharan Africa,COD
+284,Georgia,4.252,2016,Central and Eastern Europe,GEO
+285,Congo (Brazzaville),4.236,2016,Sub-Saharan Africa,COG
+286,Senegal,4.219,2016,Sub-Saharan Africa,SEN
+287,Bulgaria,4.217,2016,Central and Eastern Europe,BGR
+288,Mauritania,4.201,2016,Sub-Saharan Africa,MRT
+289,Zimbabwe,4.193,2016,Sub-Saharan Africa,ZWE
+290,Malawi,4.156,2016,Sub-Saharan Africa,MWI
+291,Sudan,4.139,2016,Sub-Saharan Africa,SDN
+292,Gabon,4.121,2016,Sub-Saharan Africa,GAB
+293,Mali,4.073,2016,Sub-Saharan Africa,MLI
+294,Haiti,4.028,2016,Latin America and Caribbean,HTI
+295,Botswana,3.974,2016,Sub-Saharan Africa,BWA
+296,Comoros,3.956,2016,Sub-Saharan Africa,COM
+297,Ivory Coast,3.916,2016,Sub-Saharan Africa,CIV
+298,Cambodia,3.907,2016,Southeastern Asia,KHM
+299,Angola,3.866,2016,Sub-Saharan Africa,AGO
+300,Niger,3.856,2016,Sub-Saharan Africa,NER
+301,South Sudan,3.832,2016,Sub-Saharan Africa,SSD
+302,Chad,3.763,2016,Sub-Saharan Africa,TCD
+303,Burkina Faso,3.739,2016,Sub-Saharan Africa,BFA
+304,Uganda,3.739,2016,Sub-Saharan Africa,UGA
+305,Yemen,3.724,2016,Middle East and Northern Africa,YEM
+306,Madagascar,3.695,2016,Sub-Saharan Africa,MDG
+307,Tanzania,3.666,2016,Sub-Saharan Africa,TZA
+308,Liberia,3.622,2016,Sub-Saharan Africa,LBR
+309,Guinea,3.607,2016,Sub-Saharan Africa,GIN
+310,Rwanda,3.515,2016,Sub-Saharan Africa,RWA
+311,Benin,3.484,2016,Sub-Saharan Africa,BEN
+312,Afghanistan,3.36,2016,Southern Asia,AFG
+313,Togo,3.303,2016,Sub-Saharan Africa,TGO
+314,Syria,3.069,2016,Middle East and Northern Africa,SYR
+315,Burundi,2.905,2016,Sub-Saharan Africa,BDI
+316,Norway,7.537000179,2017,Western Europe,NOR
+317,Denmark,7.521999836,2017,Western Europe,DNK
+318,Iceland,7.504000187,2017,Western Europe,ISL
+319,Switzerland,7.493999958,2017,Western Europe,CHE
+320,Finland,7.468999863,2017,Western Europe,FIN
+321,Netherlands,7.376999855,2017,Western Europe,NLD
+322,Canada,7.315999985,2017,North America,CAN
+323,New Zealand,7.31400013,2017,Australia and New Zealand,NZL
+324,Sweden,7.28399992,2017,Western Europe,SWE
+325,Australia,7.28399992,2017,Australia and New Zealand,AUS
+326,Israel,7.212999821,2017,Middle East and Northern Africa,ISR
+327,Costa Rica,7.078999996,2017,Latin America and Caribbean,CRI
+328,Austria,7.006000042,2017,Western Europe,AUT
+329,United States,6.993000031,2017,North America,USA
+330,Ireland,6.977000237,2017,Western Europe,IRL
+331,Germany,6.951000214,2017,Western Europe,DEU
+332,Belgium,6.890999794,2017,Western Europe,BEL
+333,Luxembourg,6.862999916,2017,Western Europe,LUX
+334,United Kingdom,6.714000225,2017,Western Europe,GBR
+335,Chile,6.65199995,2017,Latin America and Caribbean,CHL
+336,United Arab Emirates,6.647999763,2017,Middle East and Northern Africa,ARE
+337,Brazil,6.635000229,2017,Latin America and Caribbean,BRA
+338,Czech Republic,6.609000206,2017,Central and Eastern Europe,CZE
+339,Argentina,6.598999977,2017,Latin America and Caribbean,ARG
+340,Mexico,6.578000069,2017,Latin America and Caribbean,MEX
+341,Singapore,6.572000027,2017,Southeastern Asia,SGP
+342,Malta,6.52699995,2017,Western Europe,MLT
+343,Uruguay,6.453999996,2017,Latin America and Caribbean,URY
+344,Guatemala,6.453999996,2017,Latin America and Caribbean,GTM
+345,Panama,6.452000141,2017,Latin America and Caribbean,PAN
+346,France,6.441999912,2017,Western Europe,FRA
+347,Thailand,6.423999786,2017,Southeastern Asia,THA
+348,Taiwan,6.421999931,2017,Eastern Asia,TWN
+349,Spain,6.402999878,2017,Western Europe,ESP
+350,Qatar,6.375,2017,Middle East and Northern Africa,QAT
+351,Colombia,6.356999874,2017,Latin America and Caribbean,COL
+352,Saudi Arabia,6.343999863,2017,Middle East and Northern Africa,SAU
+353,Trinidad and Tobago,6.168000221,2017,Latin America and Caribbean,TTO
+354,Kuwait,6.105000019,2017,Middle East and Northern Africa,KWT
+355,Slovakia,6.09800005,2017,Central and Eastern Europe,SVK
+356,Bahrain,6.086999893,2017,Middle East and Northern Africa,BHR
+357,Malaysia,6.084000111,2017,Southeastern Asia,MYS
+358,Nicaragua,6.071000099,2017,Latin America and Caribbean,NIC
+359,Ecuador,6.007999897,2017,Latin America and Caribbean,ECU
+360,El Salvador,6.002999783,2017,Latin America and Caribbean,SLV
+361,Poland,5.97300005,2017,Central and Eastern Europe,POL
+362,Uzbekistan,5.971000195,2017,Central and Eastern Europe,UZB
+363,Italy,5.964000225,2017,Western Europe,ITA
+364,Russia,5.962999821,2017,Central and Eastern Europe,RUS
+365,Belize,5.955999851,2017,Latin America and Caribbean,BLZ
+366,Japan,5.920000076,2017,Eastern Asia,JPN
+367,Lithuania,5.90199995,2017,Central and Eastern Europe,LTU
+368,Algeria,5.872000217,2017,Middle East and Northern Africa,DZA
+369,Latvia,5.849999905,2017,Central and Eastern Europe,LVA
+370,South Korea,5.837999821,2017,Eastern Asia,KOR
+371,Moldova,5.837999821,2017,Central and Eastern Europe,MDA
+372,Romania,5.824999809,2017,Central and Eastern Europe,ROU
+373,Bolivia,5.822999954,2017,Latin America and Caribbean,BOL
+374,Turkmenistan,5.822000027,2017,Central and Eastern Europe,TKM
+375,Kazakhstan,5.818999767,2017,Central and Eastern Europe,KAZ
+376,North Cyprus,5.809999943,2017,Western Europe,CYP
+377,Slovenia,5.757999897,2017,Central and Eastern Europe,SVN
+378,Peru,5.715000153,2017,Latin America and Caribbean,PER
+379,Mauritius,5.629000187,2017,Sub-Saharan Africa,MUS
+380,Cyprus,5.620999813,2017,Western Europe,CYP
+381,Estonia,5.611000061,2017,Central and Eastern Europe,EST
+382,Belarus,5.568999767,2017,Central and Eastern Europe,BLR
+383,Libya,5.525000095,2017,Middle East and Northern Africa,LBY
+384,Turkey,5.5,2017,Middle East and Northern Africa,TUR
+385,Paraguay,5.493000031,2017,Latin America and Caribbean,PRY
+386,Hong Kong,5.472000122,2017,Eastern Asia,HKG
+387,Philippines,5.429999828,2017,Southeastern Asia,PHL
+388,Serbia,5.394999981,2017,Central and Eastern Europe,SRB
+389,Jordan,5.335999966,2017,Middle East and Northern Africa,JOR
+390,Hungary,5.323999882,2017,Central and Eastern Europe,HUN
+391,Jamaica,5.31099987,2017,Latin America and Caribbean,JAM
+392,Croatia,5.293000221,2017,Central and Eastern Europe,HRV
+393,Kosovo,5.278999805,2017,Central and Eastern Europe,KSV
+394,China,5.272999763,2017,Eastern Asia,CHN
+395,Pakistan,5.269000053,2017,Southern Asia,PAK
+396,Indonesia,5.262000084,2017,Southeastern Asia,IDN
+397,Venezuela,5.25,2017,Latin America and Caribbean,VEN
+398,Montenegro,5.236999989,2017,Central and Eastern Europe,MNE
+399,Morocco,5.235000134,2017,Middle East and Northern Africa,MAR
+400,Azerbaijan,5.234000206,2017,Central and Eastern Europe,AZE
+401,Dominican Republic,5.230000019,2017,Latin America and Caribbean,DOM
+402,Greece,5.227000237,2017,Western Europe,GRC
+403,Lebanon,5.224999905,2017,Middle East and Northern Africa,LBN
+404,Portugal,5.195000172,2017,Western Europe,PRT
+405,Bosnia and Herzegovina,5.18200016,2017,Central and Eastern Europe,BIH
+406,Honduras,5.181000233,2017,Latin America and Caribbean,HND
+407,Macedonia,5.175000191,2017,Central and Eastern Europe,MKD
+408,Somalia,5.151000023,2017,Middle East and Northern Africa,SOM
+409,Vietnam,5.073999882,2017,Southeastern Asia,VNM
+410,Nigeria,5.073999882,2017,Sub-Saharan Africa,NGA
+411,Tajikistan,5.040999889,2017,Central and Eastern Europe,TJK
+412,Bhutan,5.011000156,2017,Southern Asia,BTN
+413,Kyrgyzstan,5.004000187,2017,Central and Eastern Europe,KGZ
+414,Nepal,4.961999893,2017,Southern Asia,NPL
+415,Mongolia,4.954999924,2017,Eastern Asia,MNG
+416,South Africa,4.828999996,2017,Sub-Saharan Africa,ZAF
+417,Tunisia,4.804999828,2017,Middle East and Northern Africa,TUN
+418,Palestinian Territories,4.775000095,2017,Middle East and Northern Africa,PSE
+419,Egypt,4.735000134,2017,Middle East and Northern Africa,EGY
+420,Bulgaria,4.714000225,2017,Central and Eastern Europe,BGR
+421,Sierra Leone,4.709000111,2017,Sub-Saharan Africa,SLE
+422,Cameroon,4.695000172,2017,Sub-Saharan Africa,CMR
+423,Iran,4.691999912,2017,Middle East and Northern Africa,IRN
+424,Albania,4.644000053,2017,Central and Eastern Europe,ALB
+425,Bangladesh,4.607999802,2017,Southern Asia,BGD
+426,Namibia,4.573999882,2017,Sub-Saharan Africa,NAM
+427,Kenya,4.552999973,2017,Sub-Saharan Africa,KEN
+428,Mozambique,4.550000191,2017,Sub-Saharan Africa,MOZ
+429,Myanmar,4.545000076,2017,Southeastern Asia,MMR
+430,Senegal,4.534999847,2017,Sub-Saharan Africa,SEN
+431,Zambia,4.513999939,2017,Sub-Saharan Africa,ZMB
+432,Iraq,4.497000217,2017,Middle East and Northern Africa,IRQ
+433,Gabon,4.465000153,2017,Sub-Saharan Africa,GAB
+434,Ethiopia,4.460000038,2017,Sub-Saharan Africa,ETH
+435,Sri Lanka,4.440000057,2017,Southern Asia,LKA
+436,Armenia,4.375999928,2017,Central and Eastern Europe,ARM
+437,India,4.315000057,2017,Southern Asia,IND
+438,Mauritania,4.291999817,2017,Sub-Saharan Africa,MRT
+439,Congo (Brazzaville),4.290999889,2017,Sub-Saharan Africa,COG
+440,Georgia,4.285999775,2017,Central and Eastern Europe,GEO
+441,Congo (Kinshasa),4.28000021,2017,Sub-Saharan Africa,COD
+442,Mali,4.190000057,2017,Sub-Saharan Africa,MLI
+443,Ivory Coast,4.179999828,2017,Sub-Saharan Africa,CIV
+444,Cambodia,4.168000221,2017,Southeastern Asia,KHM
+445,Sudan,4.138999939,2017,Sub-Saharan Africa,SDN
+446,Ghana,4.119999886,2017,Sub-Saharan Africa,GHA
+447,Ukraine,4.096000195,2017,Central and Eastern Europe,UKR
+448,Uganda,4.080999851,2017,Sub-Saharan Africa,UGA
+449,Burkina Faso,4.032000065,2017,Sub-Saharan Africa,BFA
+450,Niger,4.027999878,2017,Sub-Saharan Africa,NER
+451,Malawi,3.970000029,2017,Sub-Saharan Africa,MWI
+452,Chad,3.936000109,2017,Sub-Saharan Africa,TCD
+453,Zimbabwe,3.875,2017,Sub-Saharan Africa,ZWE
+454,Lesotho,3.808000088,2017,Sub-Saharan Africa,LSO
+455,Angola,3.795000076,2017,Sub-Saharan Africa,AGO
+456,Afghanistan,3.79399991,2017,Southern Asia,AFG
+457,Botswana,3.766000032,2017,Sub-Saharan Africa,BWA
+458,Benin,3.657000065,2017,Sub-Saharan Africa,BEN
+459,Madagascar,3.644000053,2017,Sub-Saharan Africa,MDG
+460,Haiti,3.602999926,2017,Latin America and Caribbean,HTI
+461,Yemen,3.592999935,2017,Middle East and Northern Africa,YEM
+462,South Sudan,3.59100008,2017,Sub-Saharan Africa,SSD
+463,Liberia,3.532999992,2017,Sub-Saharan Africa,LBR
+464,Guinea,3.506999969,2017,Sub-Saharan Africa,GIN
+465,Togo,3.494999886,2017,Sub-Saharan Africa,TGO
+466,Rwanda,3.470999956,2017,Sub-Saharan Africa,RWA
+467,Syria,3.461999893,2017,Middle East and Northern Africa,SYR
+468,Tanzania,3.348999977,2017,Sub-Saharan Africa,TZA
+469,Burundi,2.904999971,2017,Sub-Saharan Africa,BDI
+470,Central African Republic,2.693000078,2017,Sub-Saharan Africa,CAF
+471,Finland,7.632,2018,Western Europe,FIN
+472,Norway,7.594,2018,Western Europe,NOR
+473,Denmark,7.555,2018,Western Europe,DNK
+474,Iceland,7.495,2018,Western Europe,ISL
+475,Switzerland,7.487,2018,Western Europe,CHE
+476,Netherlands,7.441,2018,Western Europe,NLD
+477,Canada,7.328,2018,North America,CAN
+478,New Zealand,7.324,2018,Australia and New Zealand,NZL
+479,Sweden,7.314,2018,Western Europe,SWE
+480,Australia,7.272,2018,Australia and New Zealand,AUS
+481,United Kingdom,7.19,2018,Western Europe,GBR
+482,Austria,7.139,2018,Western Europe,AUT
+483,Costa Rica,7.072,2018,Latin America and Caribbean,CRI
+484,Ireland,6.977,2018,Western Europe,IRL
+485,Germany,6.965,2018,Western Europe,DEU
+486,Belgium,6.927,2018,Western Europe,BEL
+487,Luxembourg,6.91,2018,Western Europe,LUX
+488,United States,6.886,2018,North America,USA
+489,Israel,6.814,2018,Middle East and Northern Africa,ISR
+490,United Arab Emirates,6.774,2018,Middle East and Northern Africa,ARE
+491,Czech Republic,6.711,2018,Central and Eastern Europe,CZE
+492,Malta,6.627,2018,Western Europe,MLT
+493,France,6.489,2018,Western Europe,FRA
+494,Mexico,6.488,2018,Latin America and Caribbean,MEX
+495,Chile,6.476,2018,Latin America and Caribbean,CHL
+496,Taiwan,6.441,2018,Eastern Asia,TWN
+497,Panama,6.43,2018,Latin America and Caribbean,PAN
+498,Brazil,6.419,2018,Latin America and Caribbean,BRA
+499,Argentina,6.388,2018,Latin America and Caribbean,ARG
+500,Guatemala,6.382,2018,Latin America and Caribbean,GTM
+501,Uruguay,6.379,2018,Latin America and Caribbean,URY
+502,Qatar,6.374,2018,Middle East and Northern Africa,QAT
+503,Saudi Arabia,6.371,2018,Middle East and Northern Africa,SAU
+504,Singapore,6.343,2018,Southeastern Asia,SGP
+505,Malaysia,6.322,2018,Southeastern Asia,MYS
+506,Spain,6.31,2018,Western Europe,ESP
+507,Colombia,6.26,2018,Latin America and Caribbean,COL
+508,Trinidad and Tobago,6.192,2018,Latin America and Caribbean,TTO
+509,Slovakia,6.173,2018,Central and Eastern Europe,SVK
+510,El Salvador,6.167,2018,Latin America and Caribbean,SLV
+511,Nicaragua,6.141,2018,Latin America and Caribbean,NIC
+512,Poland,6.123,2018,Central and Eastern Europe,POL
+513,Bahrain,6.105,2018,Middle East and Northern Africa,BHR
+514,Uzbekistan,6.096,2018,Central and Eastern Europe,UZB
+515,Kuwait,6.083,2018,Middle East and Northern Africa,KWT
+516,Thailand,6.072,2018,Southeastern Asia,THA
+517,Italy,6,2018,Western Europe,ITA
+518,Ecuador,5.973,2018,Latin America and Caribbean,ECU
+519,Belize,5.956,2018,Latin America and Caribbean,BLZ
+520,Lithuania,5.952,2018,Central and Eastern Europe,LTU
+521,Slovenia,5.948,2018,Central and Eastern Europe,SVN
+522,Romania,5.945,2018,Central and Eastern Europe,ROU
+523,Latvia,5.933,2018,Central and Eastern Europe,LVA
+524,Japan,5.915,2018,Eastern Asia,JPN
+525,Mauritius,5.891,2018,Sub-Saharan Africa,MUS
+526,Jamaica,5.89,2018,Latin America and Caribbean,JAM
+527,South Korea,5.875,2018,Eastern Asia,KOR
+528,Northern Cyprus,5.835,2018,Middle East and Northern Africa,CYP
+529,Russia,5.81,2018,Central and Eastern Europe,RUS
+530,Kazakhstan,5.79,2018,Central and Eastern Europe,KAZ
+531,Cyprus,5.762,2018,Western Europe,CYP
+532,Bolivia,5.752,2018,Latin America and Caribbean,BOL
+533,Estonia,5.739,2018,Central and Eastern Europe,EST
+534,Paraguay,5.681,2018,Latin America and Caribbean,PRY
+535,Peru,5.663,2018,Latin America and Caribbean,PER
+536,Kosovo,5.662,2018,Central and Eastern Europe,KSV
+537,Moldova,5.64,2018,Central and Eastern Europe,MDA
+538,Turkmenistan,5.636,2018,Central and Eastern Europe,TKM
+539,Hungary,5.62,2018,Central and Eastern Europe,HUN
+540,Libya,5.566,2018,Middle East and Northern Africa,LBY
+541,Philippines,5.524,2018,Southeastern Asia,PHL
+542,Honduras,5.504,2018,Latin America and Caribbean,HND
+543,Belarus,5.483,2018,Central and Eastern Europe,BLR
+544,Turkey,5.483,2018,Middle East and Northern Africa,TUR
+545,Pakistan,5.472,2018,Southern Asia,PAK
+546,Hong Kong,5.43,2018,Eastern Asia,HKG
+547,Portugal,5.41,2018,Western Europe,PRT
+548,Serbia,5.398,2018,Central and Eastern Europe,SRB
+549,Greece,5.358,2018,Western Europe,GRC
+550,Lebanon,5.358,2018,Middle East and Northern Africa,LBN
+551,Montenegro,5.347,2018,Central and Eastern Europe,MNE
+552,Croatia,5.321,2018,Central and Eastern Europe,HRV
+553,Dominican Republic,5.302,2018,Latin America and Caribbean,DOM
+554,Algeria,5.295,2018,Middle East and Northern Africa,DZA
+555,Morocco,5.254,2018,Middle East and Northern Africa,MAR
+556,China,5.246,2018,Eastern Asia,CHN
+557,Azerbaijan,5.201,2018,Central and Eastern Europe,AZE
+558,Tajikistan,5.199,2018,Central and Eastern Europe,TJK
+559,Macedonia,5.185,2018,Central and Eastern Europe,MKD
+560,Jordan,5.161,2018,Middle East and Northern Africa,JOR
+561,Nigeria,5.155,2018,Sub-Saharan Africa,NGA
+562,Kyrgyzstan,5.131,2018,Central and Eastern Europe,KGZ
+563,Bosnia and Herzegovina,5.129,2018,Central and Eastern Europe,BIH
+564,Mongolia,5.125,2018,Eastern Asia,MNG
+565,Vietnam,5.103,2018,Southeastern Asia,VNM
+566,Indonesia,5.093,2018,Southeastern Asia,IDN
+567,Bhutan,5.082,2018,Southern Asia,BTN
+568,Somalia,4.982,2018,Middle East and Northern Africa,SOM
+569,Cameroon,4.975,2018,Sub-Saharan Africa,CMR
+570,Bulgaria,4.933,2018,Central and Eastern Europe,BGR
+571,Nepal,4.88,2018,Southern Asia,NPL
+572,Venezuela,4.806,2018,Latin America and Caribbean,VEN
+573,Gabon,4.758,2018,Sub-Saharan Africa,GAB
+574,Palestinian Territories,4.743,2018,Middle East and Northern Africa,PSE
+575,South Africa,4.724,2018,Sub-Saharan Africa,ZAF
+576,Iran,4.707,2018,Middle East and Northern Africa,IRN
+577,Ivory Coast,4.671,2018,Sub-Saharan Africa,CIV
+578,Ghana,4.657,2018,Sub-Saharan Africa,GHA
+579,Senegal,4.631,2018,Sub-Saharan Africa,SEN
+580,Laos,4.623,2018,Southeastern Asia,LAO
+581,Tunisia,4.592,2018,Middle East and Northern Africa,TUN
+582,Albania,4.586,2018,Central and Eastern Europe,ALB
+583,Sierra Leone,4.571,2018,Sub-Saharan Africa,SLE
+584,Congo (Brazzaville),4.559,2018,Sub-Saharan Africa,COG
+585,Bangladesh,4.5,2018,Southern Asia,BGD
+586,Sri Lanka,4.471,2018,Southern Asia,LKA
+587,Iraq,4.456,2018,Middle East and Northern Africa,IRQ
+588,Mali,4.447,2018,Sub-Saharan Africa,MLI
+589,Namibia,4.441,2018,Sub-Saharan Africa,NAM
+590,Cambodia,4.433,2018,Southeastern Asia,KHM
+591,Burkina Faso,4.424,2018,Sub-Saharan Africa,BFA
+592,Egypt,4.419,2018,Middle East and Northern Africa,EGY
+593,Mozambique,4.417,2018,Sub-Saharan Africa,MOZ
+594,Kenya,4.41,2018,Sub-Saharan Africa,KEN
+595,Zambia,4.377,2018,Sub-Saharan Africa,ZMB
+596,Mauritania,4.356,2018,Sub-Saharan Africa,MRT
+597,Ethiopia,4.35,2018,Sub-Saharan Africa,ETH
+598,Georgia,4.34,2018,Central and Eastern Europe,GEO
+599,Armenia,4.321,2018,Central and Eastern Europe,ARM
+600,Myanmar,4.308,2018,Southeastern Asia,MMR
+601,Chad,4.301,2018,Sub-Saharan Africa,TCD
+602,Congo (Kinshasa),4.245,2018,Sub-Saharan Africa,COD
+603,India,4.19,2018,Southern Asia,IND
+604,Niger,4.166,2018,Sub-Saharan Africa,NER
+605,Uganda,4.161,2018,Sub-Saharan Africa,UGA
+606,Benin,4.141,2018,Sub-Saharan Africa,BEN
+607,Sudan,4.139,2018,Sub-Saharan Africa,SDN
+608,Ukraine,4.103,2018,Central and Eastern Europe,UKR
+609,Togo,3.999,2018,Sub-Saharan Africa,TGO
+610,Guinea,3.964,2018,Sub-Saharan Africa,GIN
+611,Lesotho,3.808,2018,Sub-Saharan Africa,LSO
+612,Angola,3.795,2018,Sub-Saharan Africa,AGO
+613,Madagascar,3.774,2018,Sub-Saharan Africa,MDG
+614,Zimbabwe,3.692,2018,Sub-Saharan Africa,ZWE
+615,Afghanistan,3.632,2018,Southern Asia,AFG
+616,Botswana,3.59,2018,Sub-Saharan Africa,BWA
+617,Malawi,3.587,2018,Sub-Saharan Africa,MWI
+618,Haiti,3.582,2018,Latin America and Caribbean,HTI
+619,Liberia,3.495,2018,Sub-Saharan Africa,LBR
+620,Syria,3.462,2018,Middle East and Northern Africa,SYR
+621,Rwanda,3.408,2018,Sub-Saharan Africa,RWA
+622,Yemen,3.355,2018,Middle East and Northern Africa,YEM
+623,Tanzania,3.303,2018,Sub-Saharan Africa,TZA
+624,South Sudan,3.254,2018,Sub-Saharan Africa,SSD
+625,Central African Republic,3.083,2018,Sub-Saharan Africa,CAF
+626,Burundi,2.905,2018,Sub-Saharan Africa,BDI
+627,Finland,7.769,2019,Western Europe,FIN
+628,Denmark,7.6,2019,Western Europe,DNK
+629,Norway,7.554,2019,Western Europe,NOR
+630,Iceland,7.494,2019,Western Europe,ISL
+631,Netherlands,7.488,2019,Western Europe,NLD
+632,Switzerland,7.48,2019,Western Europe,CHE
+633,Sweden,7.343,2019,Western Europe,SWE
+634,New Zealand,7.307,2019,Australia and New Zealand,NZL
+635,Canada,7.278,2019,North America,CAN
+636,Austria,7.246,2019,Western Europe,AUT
+637,Australia,7.228,2019,Australia and New Zealand,AUS
+638,Costa Rica,7.167,2019,Latin America and Caribbean,CRI
+639,Israel,7.139,2019,Middle East and Northern Africa,ISR
+640,Luxembourg,7.09,2019,Western Europe,LUX
+641,United Kingdom,7.054,2019,Western Europe,GBR
+642,Ireland,7.021,2019,Western Europe,IRL
+643,Germany,6.985,2019,Western Europe,DEU
+644,Belgium,6.923,2019,Western Europe,BEL
+645,United States,6.892,2019,North America,USA
+646,Czech Republic,6.852,2019,Central and Eastern Europe,CZE
+647,United Arab Emirates,6.825,2019,Middle East and Northern Africa,ARE
+648,Malta,6.726,2019,Western Europe,MLT
+649,Mexico,6.595,2019,Latin America and Caribbean,MEX
+650,France,6.592,2019,Western Europe,FRA
+651,Taiwan,6.446,2019,Eastern Asia,TWN
+652,Chile,6.444,2019,Latin America and Caribbean,CHL
+653,Guatemala,6.436,2019,Latin America and Caribbean,GTM
+654,Saudi Arabia,6.375,2019,Middle East and Northern Africa,SAU
+655,Qatar,6.374,2019,Middle East and Northern Africa,QAT
+656,Spain,6.354,2019,Western Europe,ESP
+657,Panama,6.321,2019,Latin America and Caribbean,PAN
+658,Brazil,6.3,2019,Latin America and Caribbean,BRA
+659,Uruguay,6.293,2019,Latin America and Caribbean,URY
+660,Singapore,6.262,2019,Southeastern Asia,SGP
+661,El Salvador,6.253,2019,Latin America and Caribbean,SLV
+662,Italy,6.223,2019,Western Europe,ITA
+663,Bahrain,6.199,2019,Middle East and Northern Africa,BHR
+664,Slovakia,6.198,2019,Central and Eastern Europe,SVK
+665,Trinidad and Tobago,6.192,2019,Latin America and Caribbean,TTO
+666,Poland,6.182,2019,Central and Eastern Europe,POL
+667,Uzbekistan,6.174,2019,Central and Eastern Europe,UZB
+668,Lithuania,6.149,2019,Central and Eastern Europe,LTU
+669,Colombia,6.125,2019,Latin America and Caribbean,COL
+670,Slovenia,6.118,2019,Central and Eastern Europe,SVN
+671,Nicaragua,6.105,2019,Latin America and Caribbean,NIC
+672,Kosovo,6.1,2019,Central and Eastern Europe,KSV
+673,Argentina,6.086,2019,Latin America and Caribbean,ARG
+674,Romania,6.07,2019,Central and Eastern Europe,ROU
+675,Cyprus,6.046,2019,Western Europe,CYP
+676,Ecuador,6.028,2019,Latin America and Caribbean,ECU
+677,Kuwait,6.021,2019,Middle East and Northern Africa,KWT
+678,Thailand,6.008,2019,Southeastern Asia,THA
+679,Latvia,5.94,2019,Central and Eastern Europe,LVA
+680,South Korea,5.895,2019,Eastern Asia,KOR
+681,Estonia,5.893,2019,Central and Eastern Europe,EST
+682,Jamaica,5.89,2019,Latin America and Caribbean,JAM
+683,Mauritius,5.888,2019,Sub-Saharan Africa,MUS
+684,Japan,5.886,2019,Eastern Asia,JPN
+685,Honduras,5.86,2019,Latin America and Caribbean,HND
+686,Kazakhstan,5.809,2019,Central and Eastern Europe,KAZ
+687,Bolivia,5.779,2019,Latin America and Caribbean,BOL
+688,Hungary,5.758,2019,Central and Eastern Europe,HUN
+689,Paraguay,5.743,2019,Latin America and Caribbean,PRY
+690,Northern Cyprus,5.718,2019,Middle East and Northern Africa,CYP
+691,Peru,5.697,2019,Latin America and Caribbean,PER
+692,Portugal,5.693,2019,Western Europe,PRT
+693,Pakistan,5.653,2019,Southern Asia,PAK
+694,Russia,5.648,2019,Central and Eastern Europe,RUS
+695,Philippines,5.631,2019,Southeastern Asia,PHL
+696,Serbia,5.603,2019,Central and Eastern Europe,SRB
+697,Moldova,5.529,2019,Central and Eastern Europe,MDA
+698,Libya,5.525,2019,Middle East and Northern Africa,LBY
+699,Montenegro,5.523,2019,Central and Eastern Europe,MNE
+700,Tajikistan,5.467,2019,Central and Eastern Europe,TJK
+701,Croatia,5.432,2019,Central and Eastern Europe,HRV
+702,Hong Kong,5.43,2019,Eastern Asia,HKG
+703,Dominican Republic,5.425,2019,Latin America and Caribbean,DOM
+704,Bosnia and Herzegovina,5.386,2019,Central and Eastern Europe,BIH
+705,Turkey,5.373,2019,Middle East and Northern Africa,TUR
+706,Malaysia,5.339,2019,Southeastern Asia,MYS
+707,Belarus,5.323,2019,Central and Eastern Europe,BLR
+708,Greece,5.287,2019,Western Europe,GRC
+709,Mongolia,5.285,2019,Eastern Asia,MNG
+710,North Macedonia,5.274,2019,Central and Eastern Europe,MKD
+711,Nigeria,5.265,2019,Sub-Saharan Africa,NGA
+712,Kyrgyzstan,5.261,2019,Central and Eastern Europe,KGZ
+713,Turkmenistan,5.247,2019,Central and Eastern Europe,TKM
+714,Algeria,5.211,2019,Middle East and Northern Africa,DZA
+715,Morocco,5.208,2019,Middle East and Northern Africa,MAR
+716,Azerbaijan,5.208,2019,Central and Eastern Europe,AZE
+717,Lebanon,5.197,2019,Middle East and Northern Africa,LBN
+718,Indonesia,5.192,2019,Southeastern Asia,IDN
+719,China,5.191,2019,Eastern Asia,CHN
+720,Vietnam,5.175,2019,Southeastern Asia,VNM
+721,Bhutan,5.082,2019,Southern Asia,BTN
+722,Cameroon,5.044,2019,Sub-Saharan Africa,CMR
+723,Bulgaria,5.011,2019,Central and Eastern Europe,BGR
+724,Ghana,4.996,2019,Sub-Saharan Africa,GHA
+725,Ivory Coast,4.944,2019,Sub-Saharan Africa,CIV
+726,Nepal,4.913,2019,Southern Asia,NPL
+727,Jordan,4.906,2019,Middle East and Northern Africa,JOR
+728,Benin,4.883,2019,Sub-Saharan Africa,BEN
+729,Congo (Brazzaville),4.812,2019,Sub-Saharan Africa,COG
+730,Gabon,4.799,2019,Sub-Saharan Africa,GAB
+731,Laos,4.796,2019,Southeastern Asia,LAO
+732,South Africa,4.722,2019,Sub-Saharan Africa,ZAF
+733,Albania,4.719,2019,Central and Eastern Europe,ALB
+734,Venezuela,4.707,2019,Latin America and Caribbean,VEN
+735,Cambodia,4.7,2019,Southeastern Asia,KHM
+736,Palestinian Territories,4.696,2019,Middle East and Northern Africa,PSE
+737,Senegal,4.681,2019,Sub-Saharan Africa,SEN
+738,Somalia,4.668,2019,Middle East and Northern Africa,SOM
+739,Namibia,4.639,2019,Sub-Saharan Africa,NAM
+740,Niger,4.628,2019,Sub-Saharan Africa,NER
+741,Burkina Faso,4.587,2019,Sub-Saharan Africa,BFA
+742,Armenia,4.559,2019,Central and Eastern Europe,ARM
+743,Iran,4.548,2019,Middle East and Northern Africa,IRN
+744,Guinea,4.534,2019,Sub-Saharan Africa,GIN
+745,Georgia,4.519,2019,Central and Eastern Europe,GEO
+746,Gambia,4.516,2019,Middle East and Northern Africa,GMB
+747,Kenya,4.509,2019,Sub-Saharan Africa,KEN
+748,Mauritania,4.49,2019,Sub-Saharan Africa,MRT
+749,Mozambique,4.466,2019,Sub-Saharan Africa,MOZ
+750,Tunisia,4.461,2019,Middle East and Northern Africa,TUN
+751,Bangladesh,4.456,2019,Southern Asia,BGD
+752,Iraq,4.437,2019,Middle East and Northern Africa,IRQ
+753,Congo (Kinshasa),4.418,2019,Sub-Saharan Africa,COD
+754,Mali,4.39,2019,Sub-Saharan Africa,MLI
+755,Sierra Leone,4.374,2019,Sub-Saharan Africa,SLE
+756,Sri Lanka,4.366,2019,Southern Asia,LKA
+757,Myanmar,4.36,2019,Southeastern Asia,MMR
+758,Chad,4.35,2019,Sub-Saharan Africa,TCD
+759,Ukraine,4.332,2019,Central and Eastern Europe,UKR
+760,Ethiopia,4.286,2019,Sub-Saharan Africa,ETH
+761,Swaziland,4.212,2019,Sub-Saharan Africa,SWZ
+762,Uganda,4.189,2019,Sub-Saharan Africa,UGA
+763,Egypt,4.166,2019,Middle East and Northern Africa,EGY
+764,Zambia,4.107,2019,Sub-Saharan Africa,ZMB
+765,Togo,4.085,2019,Sub-Saharan Africa,TGO
+766,India,4.015,2019,Southern Asia,IND
+767,Liberia,3.975,2019,Sub-Saharan Africa,LBR
+768,Comoros,3.973,2019,Sub-Saharan Africa,COM
+769,Madagascar,3.933,2019,Sub-Saharan Africa,MDG
+770,Lesotho,3.802,2019,Sub-Saharan Africa,LSO
+771,Burundi,3.775,2019,Sub-Saharan Africa,BDI
+772,Zimbabwe,3.663,2019,Sub-Saharan Africa,ZWE
+773,Haiti,3.597,2019,Latin America and Caribbean,HTI
+774,Botswana,3.488,2019,Sub-Saharan Africa,BWA
+775,Syria,3.462,2019,Middle East and Northern Africa,SYR
+776,Malawi,3.41,2019,Sub-Saharan Africa,MWI
+777,Yemen,3.38,2019,Middle East and Northern Africa,YEM
+778,Rwanda,3.334,2019,Sub-Saharan Africa,RWA
+779,Tanzania,3.231,2019,Sub-Saharan Africa,TZA
+780,Afghanistan,3.203,2019,Southern Asia,AFG
+781,Central African Republic,3.083,2019,Sub-Saharan Africa,CAF
+782,South Sudan,2.853,2019,Sub-Saharan Africa,SSD
+783,Finland,7.808700085,2020,Western Europe,FIN
+784,Denmark,7.645599842,2020,Western Europe,DNK
+785,Switzerland,7.559899807,2020,Western Europe,CHE
+786,Iceland,7.504499912,2020,Western Europe,ISL
+787,Norway,7.487999916,2020,Western Europe,NOR
+788,Netherlands,7.448900223,2020,Western Europe,NLD
+789,Sweden,7.353499889,2020,Western Europe,SWE
+790,New Zealand,7.299600124,2020,Australia and New Zealand,NZL
+791,Austria,7.294199944,2020,Western Europe,AUT
+792,Luxembourg,7.237500191,2020,Western Europe,LUX
+793,Canada,7.23210001,2020,North America,CAN
+794,Australia,7.222799778,2020,Australia and New Zealand,AUS
+795,United Kingdom,7.164500237,2020,Western Europe,GBR
+796,Israel,7.128600121,2020,Middle East and Northern Africa,ISR
+797,Costa Rica,7.121399879,2020,Latin America and Caribbean,CRI
+798,Ireland,7.093699932,2020,Western Europe,IRL
+799,Germany,7.075799942,2020,Western Europe,DEU
+800,United States,6.939599991,2020,North America,USA
+801,Czech Republic,6.910900116,2020,Central and Eastern Europe,CZE
+802,Belgium,6.863500118,2020,Western Europe,BEL
+803,United Arab Emirates,6.790800095,2020,Middle East and Northern Africa,ARE
+804,Malta,6.772799969,2020,Western Europe,MLT
+805,France,6.663799763,2020,Western Europe,FRA
+806,Mexico,6.465000153,2020,Latin America and Caribbean,MEX
+807,Taiwan,6.45539999,2020,Eastern Asia,TWN
+808,Uruguay,6.440100193,2020,Latin America and Caribbean,URY
+809,Saudi Arabia,6.406499863,2020,Middle East and Northern Africa,SAU
+810,Spain,6.400899887,2020,Western Europe,ESP
+811,Guatemala,6.398900032,2020,Latin America and Caribbean,GTM
+812,Italy,6.38740015,2020,Western Europe,ITA
+813,Singapore,6.377099991,2020,Southeastern Asia,SGP
+814,Brazil,6.375599861,2020,Latin America and Caribbean,BRA
+815,Slovenia,6.363399982,2020,Central and Eastern Europe,SVN
+816,El Salvador,6.34829998,2020,Latin America and Caribbean,SLV
+817,Kosovo,6.325200081,2020,Central and Eastern Europe,KSV
+818,Panama,6.304800034,2020,Latin America and Caribbean,PAN
+819,Slovakia,6.280600071,2020,Central and Eastern Europe,SVK
+820,Uzbekistan,6.257599831,2020,Central and Eastern Europe,UZB
+821,Chile,6.228499889,2020,Latin America and Caribbean,CHL
+822,Bahrain,6.227300167,2020,Middle East and Northern Africa,BHR
+823,Lithuania,6.215499878,2020,Central and Eastern Europe,LTU
+824,Trinidad and Tobago,6.191899776,2020,Latin America and Caribbean,TTO
+825,Poland,6.186299801,2020,Central and Eastern Europe,POL
+826,Colombia,6.163400173,2020,Latin America and Caribbean,COL
+827,Cyprus,6.15899992,2020,Western Europe,CYP
+828,Nicaragua,6.13710022,2020,Latin America and Caribbean,NIC
+829,Romania,6.123700142,2020,Central and Eastern Europe,ROU
+830,Kuwait,6.102099895,2020,Middle East and Northern Africa,KWT
+831,Mauritius,6.101299763,2020,Sub-Saharan Africa,MUS
+832,Kazakhstan,6.057899952,2020,Central and Eastern Europe,KAZ
+833,Estonia,6.021800041,2020,Central and Eastern Europe,EST
+834,Philippines,6.006000042,2020,Southeastern Asia,PHL
+835,Hungary,6.000400066,2020,Central and Eastern Europe,HUN
+836,Thailand,5.998799801,2020,Southeastern Asia,THA
+837,Argentina,5.974699974,2020,Latin America and Caribbean,ARG
+838,Honduras,5.953199863,2020,Latin America and Caribbean,HND
+839,Latvia,5.949999809,2020,Central and Eastern Europe,LVA
+840,Ecuador,5.925199986,2020,Latin America and Caribbean,ECU
+841,Portugal,5.910900116,2020,Western Europe,PRT
+842,Jamaica,5.889800072,2020,Latin America and Caribbean,JAM
+843,South Korea,5.872399807,2020,Eastern Asia,KOR
+844,Japan,5.870800018,2020,Eastern Asia,JPN
+845,Peru,5.796800137,2020,Latin America and Caribbean,PER
+846,Serbia,5.77820015,2020,Central and Eastern Europe,SRB
+847,Bolivia,5.747499943,2020,Latin America and Caribbean,BOL
+848,Pakistan,5.69329977,2020,Southern Asia,PAK
+849,Paraguay,5.692100048,2020,Latin America and Caribbean,PRY
+850,Dominican Republic,5.689199924,2020,Latin America and Caribbean,DOM
+851,Bosnia and Herzegovina,5.674099922,2020,Central and Eastern Europe,BIH
+852,Moldova,5.607500076,2020,Central and Eastern Europe,MDA
+853,Tajikistan,5.555699825,2020,Central and Eastern Europe,TJK
+854,Montenegro,5.54610014,2020,Central and Eastern Europe,MNE
+855,Russia,5.546000004,2020,Central and Eastern Europe,RUS
+856,Kyrgyzstan,5.541500092,2020,Central and Eastern Europe,KGZ
+857,Belarus,5.539899826,2020,Central and Eastern Europe,BLR
+858,North Cyprus,5.53550005,2020,Western Europe,CYP
+859,Greece,5.514999866,2020,Western Europe,GRC
+860,Hong Kong,5.510399818,2020,Eastern Asia,HKG
+861,Croatia,5.504700184,2020,Central and Eastern Europe,HRV
+862,Libya,5.488800049,2020,Middle East and Northern Africa,LBY
+863,Mongolia,5.456200123,2020,Eastern Asia,MNG
+864,Malaysia,5.384300232,2020,Southeastern Asia,MYS
+865,Vietnam,5.353499889,2020,Southeastern Asia,VNM
+866,Indonesia,5.285600185,2020,Southeastern Asia,IDN
+867,Ivory Coast,5.233300209,2020,Sub-Saharan Africa,CIV
+868,Benin,5.21600008,2020,Sub-Saharan Africa,BEN
+869,Maldives,5.197599888,2020,Southern Asia,MDV
+870,Congo (Brazzaville),5.194399834,2020,Sub-Saharan Africa,COG
+871,Azerbaijan,5.164800167,2020,Central and Eastern Europe,AZE
+872,Macedonia,5.159800053,2020,Central and Eastern Europe,MKD
+873,Ghana,5.147999763,2020,Sub-Saharan Africa,GHA
+874,Nepal,5.137199879,2020,Southern Asia,NPL
+875,Turkey,5.131800175,2020,Middle East and Northern Africa,TUR
+876,China,5.123899937,2020,Eastern Asia,CHN
+877,Turkmenistan,5.119100094,2020,Central and Eastern Europe,TKM
+878,Bulgaria,5.101500034,2020,Central and Eastern Europe,BGR
+879,Morocco,5.094799995,2020,Middle East and Northern Africa,MAR
+880,Cameroon,5.084899902,2020,Sub-Saharan Africa,CMR
+881,Venezuela,5.053199768,2020,Latin America and Caribbean,VEN
+882,Algeria,5.005099773,2020,Middle East and Northern Africa,DZA
+883,Senegal,4.980800152,2020,Sub-Saharan Africa,SEN
+884,Guinea,4.949299812,2020,Sub-Saharan Africa,GIN
+885,Niger,4.909599781,2020,Sub-Saharan Africa,NER
+886,Laos,4.888599873,2020,Southeastern Asia,LAO
+887,Albania,4.882699966,2020,Central and Eastern Europe,ALB
+888,Cambodia,4.848400116,2020,Southeastern Asia,KHM
+889,Bangladesh,4.832799911,2020,Southern Asia,BGD
+890,Gabon,4.829299927,2020,Sub-Saharan Africa,GAB
+891,South Africa,4.814099789,2020,Sub-Saharan Africa,ZAF
+892,Iraq,4.784800053,2020,Middle East and Northern Africa,IRQ
+893,Lebanon,4.771500111,2020,Middle East and Northern Africa,LBN
+894,Burkina Faso,4.768700123,2020,Sub-Saharan Africa,BFA
+895,Gambia,4.750599861,2020,Middle East and Northern Africa,GMB
+896,Mali,4.729300022,2020,Sub-Saharan Africa,MLI
+897,Nigeria,4.724100113,2020,Sub-Saharan Africa,NGA
+898,Armenia,4.676799774,2020,Central and Eastern Europe,ARM
+899,Georgia,4.672599792,2020,Central and Eastern Europe,GEO
+900,Iran,4.672399998,2020,Middle East and Northern Africa,IRN
+901,Jordan,4.633399963,2020,Middle East and Northern Africa,JOR
+902,Mozambique,4.623600006,2020,Sub-Saharan Africa,MOZ
+903,Kenya,4.583000183,2020,Sub-Saharan Africa,KEN
+904,Namibia,4.571100235,2020,Sub-Saharan Africa,NAM
+905,Ukraine,4.56069994,2020,Central and Eastern Europe,UKR
+906,Liberia,4.557899952,2020,Sub-Saharan Africa,LBR
+907,Palestinian Territories,4.552800179,2020,Middle East and Northern Africa,PSE
+908,Uganda,4.43200016,2020,Sub-Saharan Africa,UGA
+909,Chad,4.422699928,2020,Sub-Saharan Africa,TCD
+910,Tunisia,4.392199993,2020,Middle East and Northern Africa,TUN
+911,Mauritania,4.374599934,2020,Sub-Saharan Africa,MRT
+912,Sri Lanka,4.327000141,2020,Southern Asia,LKA
+913,Congo (Kinshasa),4.31099987,2020,Sub-Saharan Africa,COD
+914,Swaziland,4.308100224,2020,Sub-Saharan Africa,SWZ
+915,Myanmar,4.308000088,2020,Southeastern Asia,MMR
+916,Comoros,4.288599968,2020,Sub-Saharan Africa,COM
+917,Togo,4.187200069,2020,Sub-Saharan Africa,TGO
+918,Ethiopia,4.186200142,2020,Sub-Saharan Africa,ETH
+919,Madagascar,4.165599823,2020,Sub-Saharan Africa,MDG
+920,Egypt,4.151400089,2020,Middle East and Northern Africa,EGY
+921,Sierra Leone,3.926399946,2020,Sub-Saharan Africa,SLE
+922,Burundi,3.775300026,2020,Sub-Saharan Africa,BDI
+923,Zambia,3.759399891,2020,Sub-Saharan Africa,ZMB
+924,Haiti,3.720799923,2020,Latin America and Caribbean,HTI
+925,Lesotho,3.652800083,2020,Sub-Saharan Africa,LSO
+926,India,3.573299885,2020,Southern Asia,IND
+927,Malawi,3.538000107,2020,Sub-Saharan Africa,MWI
+928,Yemen,3.527400017,2020,Middle East and Northern Africa,YEM
+929,Botswana,3.478899956,2020,Sub-Saharan Africa,BWA
+930,Tanzania,3.476200104,2020,Sub-Saharan Africa,TZA
+931,Central African Republic,3.475899935,2020,Sub-Saharan Africa,CAF
+932,Rwanda,3.312299967,2020,Sub-Saharan Africa,RWA
+933,Zimbabwe,3.299200058,2020,Sub-Saharan Africa,ZWE
+934,South Sudan,2.816600084,2020,Sub-Saharan Africa,SSD
+935,Afghanistan,2.566900015,2020,Southern Asia,AFG
