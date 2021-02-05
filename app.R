@@ -141,7 +141,14 @@ ui <- dashboardPage(
                             tabItem(tabName = 'About',
                                     fluidPage(
                                       titlePanel(strong("About")),
+                                      h4('The Team: Ang Su Yiin, Anne Nguyen Nhi Thai An, E-Lynn Toh, Foo Kai Loon, Sean Samuel Prajs, Tay Kai Lin'),
                                       h4("This app was created as part of the requirements for the Applied Statistical Analysis with R module for Master of IT in Business program at Singapore Management University (SMU)."),
+                                      h3(strong("Limitations")), 
+                                      h4('The following limitations in the investigation of happiness and model construction are acknowledged:'),
+                                      h4('- Data for influencing factors was drawn from multiple sources, with issues of data completeness to address as some nations may not record certain performance matrices yearly or at all. In addition, there is an inherent bias of data completeness towards developed nations over developing nations as developed nations have the greater capability to survey, model and score these additional statistical results. All conclusions drawn are thus only generalizable to the set of developed countries used.'), 
+                                      h4('- The analysis assumes that the relationship between happiness and other influencing factors is linear.'), 
+                                      h4('- Correlation does not imply causation, and thus the model is valid to the extent that it is predictive without directly suggesting causality. There could be a third or more underlying factors that link a variable with happiness.') 
+                                      
                                       )
                                     )
                         )
