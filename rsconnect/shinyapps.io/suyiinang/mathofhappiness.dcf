@@ -5,8 +5,8 @@ account: suyiinang
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 3589343
-bundleId: 4185870
+bundleId: 4185919
 url: https://suyiinang.shinyapps.io/MathofHappiness/
-when: 1612547581.45243
+when: 1612548390.57491
 asMultiple: FALSE
 asStatic: FALSE
